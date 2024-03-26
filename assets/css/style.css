@@ -2450,7 +2450,7 @@ label {
       content: "";
       top: 0;
       bottom: 0;
-      background-image: url(../img/dining/dining-img.png);
+      background-image: url('https://images.trvl-media.com/lodging/91000000/90320000/90316000/90315910/w956h850x62y116-617de194.jpg?impolicy=resizecrop&rw=1200&ra=fit');
       width: 50%;
       border-radius: 0 5px 0 0;
       background-size: cover;
@@ -2466,7 +2466,7 @@ label {
       content: "";
       top: 0;
       bottom: 0;
-      background-image: url(../img/dining/dining-img2.png);
+      background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYnjpgGqKjBvsMGQB-8NPkJuHoHsAA00JLmA&s');
       width: 50%;
       border-radius: 0 0 0 5px;
       background-repeat: no-repeat;
